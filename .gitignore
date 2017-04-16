@@ -1,0 +1,7 @@
+# Mac cruft
+**/.DS_Store
+
+# Don't commit image files
+Images/*.txt
+Images/*.bin
+

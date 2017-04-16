@@ -37,4 +37,4 @@ The Arduino software requires the Arduino IDE, and the knowledge of how to use i
 - [Specifications](./Specifications/)
     - [Amiibo_Character_Data.xlsx](./Specifications/Amiibo_Character_Data.xlsx) — A local copy of an [Amiibo Character Data Google Spreadsheet](https://docs.google.com/spreadsheets/d/1WJ4HxS9hkLquq-ATt1Rq9mioH6RDgP3qQrtYVaOdimM/edit?usp=sharing)
     - [NTAG213_215_216.pdf](./Specifications/NTAG213_215_216.pdf) — A local copy of the [NTAG215 data sheet](https://www.nxp.com/documents/data_sheet/NTAG213_215_216.pdf).
-- [Notes.md](Notes.md) — My assorted notes about the RFID page format and tools.
+- [NOTES.md](NOTES.md) — My assorted notes about the RFID page format and tools.

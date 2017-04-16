@@ -2,6 +2,10 @@
 
 <https://github.com/BrianEnigma/Amiibo>
 
+![Zelda on the NFC reader](NFC_Zelda.jpg)
+
+
+
 ## Overview
 
 This Amiibo development resource holds scripts for working with Amiibo NFC tags. This includes reading Amiibos with an Arduino, analyzing image files, and writing NTAG215 RFID modules with Amiibo backups.

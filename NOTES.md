@@ -41,3 +41,7 @@ We know that page 22 and 23 (0x16 and 0x17) are an Amiibo identifier. What is th
 ## User Payload?
 
 What content and format is stored in the read/write section of the payload? The owner (in what form — user ID, username, Mii?) and some limited save game data?
+
+## Bytes at the end of the bin?
+
+The tag, by definition, holds 540 bytes. Downloaded `*.bin` files are 572 bytes. What are the extra 32 bytes?

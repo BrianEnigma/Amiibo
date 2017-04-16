@@ -2,7 +2,11 @@
 
 <https://github.com/BrianEnigma/Amiibo>
 
-![Zelda on the NFC reader](NFC_Zelda.jpg)
+|      |      |
+| ---- | ---- |
+| ![Zelda on the NFC reader](NFC_Zelda.jpg) | ![Zelda Image Decode](decode-small.jpg) |
+
+
 
 
 

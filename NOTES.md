@@ -4,7 +4,7 @@
 
 - [X] Reader software.
 - [X] Analysis tool of bin files.
-- [ ] Translation tool — from Arduino dump to bin.
+- [X] Translation tool — from Arduino dump to bin.
 - [ ] Writer software.
 
 ## Writing
